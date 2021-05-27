@@ -71,16 +71,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/bowlby_one"
-            android:text="Question 3"
-            android:textSize="18sp" />
+            android:text="Question 3" />
 
         <Button
             android:id="@+id/button6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/bowlby_one"
-            android:text="Question 4"
-            android:textSize="18sp" />
+            android:text="Question 4" />
 
         <Button
             android:id="@+id/button2"
