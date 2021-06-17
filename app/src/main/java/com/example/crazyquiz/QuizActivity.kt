@@ -21,6 +21,4 @@ class QuizActivity : AppCompatActivity() {
     fun showQuestion(quiz: Quiz){
         te.setText(quiz.question)
     }
-
-
 }
